@@ -1,0 +1,98 @@
+.botao {
+    border-radius: 12px;
+    background-color: gray;
+}
+
+#body_index {
+    text-align: center;
+    background-color: rgb(208, 204, 204);
+}
+
+#indextxt {
+    font-size: 30px;
+    text-align: justify;
+
+  
+  
+    
+}
+
+#radio {
+    width: 100%;
+    height: 25rem;
+    border-radius: 50px;
+}
+
+a {
+    text-decoration: none;
+    font-style: italic;
+    color: black;
+}
+
+p {
+    color: white;
+}
+
+header {
+    font-size: 90px;
+    text-align: center;
+    border-top: 50px;
+    color: rgb(25, 59, 101)
+}
+
+#botao_index {
+    height: 70px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+p1 {
+    font-size: 40px;
+    font-style: italic;
+    color: rgb(25, 59, 101);
+}
+
+#logovr {
+    height: 160px;
+    width: 600px;
+    border-radius: 20px;
+}
+
+il {
+    font-size: 20px;
+    text-align: center;
+    list-style-type:none;
+}
+
+p {
+    color: black;
+    
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(5, 26, 75);
+}
+
+#tema1,
+#tema2,
+#tema3,
+#tema4 {
+    font-size: 80px;
+    text-align: center;
+}
+
+#tema1txt,
+#tema2txt,
+#tema3txt,
+#tem41txt {
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 200px;
+}
+
+#grupotxt {
+   text-align: center;
+    font-size: 25px;
+}
