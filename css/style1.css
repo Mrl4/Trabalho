@@ -78,7 +78,8 @@ h1 {
 #tema1,
 #tema2,
 #tema3,
-#tema4 {
+#tema4,
+#tema5 {
     font-size: 80px;
     text-align: center;
 }
@@ -86,8 +87,8 @@ h1 {
 #tema1txt,
 #tema2txt,
 #tema3txt,
-#tem41txt {
-    font-size: 20px;
+#tema4txt {
+    font-size: 41px;
     text-align: justify;
     margin-left: 200px;
 }
@@ -96,3 +97,41 @@ h1 {
    text-align: center;
     font-size: 25px;
 }
+
+#casaradio {
+    width: 700px;
+    height: 400px;
+    border-radius: 20px;
+    
+}
+
+#listatema2 {
+    color: rgb(99, 19, 19);
+    text-align: center;
+}
+
+#listatema2imp {
+    color: red;
+}
+
+#espectro {
+    width: 650px;
+    height: 250px;
+}
+
+#listatema3 {
+    font-size: 30px;
+    color: rgb(32, 33, 20);
+}
+
+h2 {
+    font-size: 50px;
+    color: rgb(1, 1, 70);
+}
+
+p10 {
+    font-size: 28px;
+}
+
+
+
